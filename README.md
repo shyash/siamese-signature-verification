@@ -1,4 +1,8 @@
 # Siamese Signature Verification
+# To-Dos :
+- bilinear interpolation (500,1200)
+- make model
+- link two models
 
 ### Dataset structure :
 
@@ -13,4 +17,3 @@ ZZZ - ID number of person whose signature is in photo.
 
 for example: NFI-00602023 is an image of signature of person number 023 done by person 006. This is a forged signature.
 NFI-02103021 is an image of signature of person number 021 done by person 021. This is a genuine signature.
-
